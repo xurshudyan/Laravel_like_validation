@@ -303,6 +303,11 @@ class Validator
         return $return;
     }
 
+    public function gitTest()
+    {
+          return "Hello World";
+    }
+
 }
 
 
