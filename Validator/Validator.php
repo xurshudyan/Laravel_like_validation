@@ -306,6 +306,7 @@ class Validator
     public function gitTest()
     {
         return "Hello World";
+
     }
 
 }
