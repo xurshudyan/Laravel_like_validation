@@ -17,6 +17,11 @@ $validator->validate([
     'email' => 'required|email',
     'password' => 'required|min:8|max:50|strong|same:password_confirm',
     "name" => 'required'
+    "name" => 'required'
+    "name" => 'required'
+    "name" => 'required'
+    "name" => 'required'
+    "name" => 'required'
 ]);
 
 print_r($validator->getErrors());
