@@ -308,6 +308,11 @@ class Validator
         //
     }
 
+    public function login()
+    {
+        //
+    }
+
 }
 
 
