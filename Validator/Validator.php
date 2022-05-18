@@ -303,10 +303,6 @@ class Validator
         return $return;
     }
 
-    public static function method()
-    {
-        //
-    }
 }
 
 
