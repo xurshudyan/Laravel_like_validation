@@ -313,6 +313,11 @@ class Validator
         //
     }
 
+    public function create()
+    {
+        //
+    }
+
 }
 
 
