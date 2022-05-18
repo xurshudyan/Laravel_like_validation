@@ -303,11 +303,6 @@ class Validator
         return $return;
     }
 
-    public function test()
-    {
-        //
-    }
-
 }
 
 
