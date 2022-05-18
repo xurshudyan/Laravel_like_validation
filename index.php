@@ -20,3 +20,4 @@ $validator->validate([
 ]);
 
 print_r($validator->getErrors());
+print_r($validator->getErrors());
