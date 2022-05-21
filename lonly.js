@@ -1,1 +1,4 @@
-console.log('hey hello')
+function isArray(arg) {
+    return Array.isArray(arg)
+}
+
