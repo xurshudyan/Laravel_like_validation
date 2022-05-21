@@ -1,4 +1,3 @@
-function isArray(arg) {
-    return Array.isArray(arg)
-}
+const isArray = (arg) => Array.isArray(arg)
+
 
